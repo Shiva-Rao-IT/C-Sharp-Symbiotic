@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\shiva\\source\\repos\\dependencyinjection\\setterinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:setterinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\shiva\\source\\repos\\dependencyinjection\\interfaceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:interfaceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\shiva\\source\\repos\\dependencyinjection\\constructorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:constructorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\shiva\\source\\repos\\dependencyinjection\\noinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:noinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceInjection.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\InterfaceInjection.cs",
+              "RelativeDocumentMoniker": "InterfaceInjection.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\InterfaceInjection.cs",
+              "RelativeToolTip": "InterfaceInjection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:12:16.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetterInjection.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\SetterInjection.cs",
+              "RelativeDocumentMoniker": "SetterInjection.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\SetterInjection.cs",
+              "RelativeToolTip": "SetterInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:58:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstructorInjection.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\ConstructorInjection.cs",
+              "RelativeDocumentMoniker": "ConstructorInjection.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\ConstructorInjection.cs",
+              "RelativeToolTip": "ConstructorInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:51:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoInjection.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\NoInjection.cs",
+              "RelativeDocumentMoniker": "NoInjection.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\DependencyInjection\\NoInjection.cs",
+              "RelativeToolTip": "NoInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:43:21.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

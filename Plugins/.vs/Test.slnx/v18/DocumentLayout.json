@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7902815-3100-471D-B547-BE770D78BC3B}|Test\\test.csproj|C:\\Users\\shiva\\source\\repos\\Test\\test\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7902815-3100-471D-B547-BE770D78BC3B}|Test\\test.csproj|solutionrelative:test\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7902815-3100-471D-B547-BE770D78BC3B}|Test\\test.csproj|c:\\users\\shiva\\source\\repos\\test\\test\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7902815-3100-471D-B547-BE770D78BC3B}|Test\\test.csproj|solutionrelative:test\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Test\\Test\\Credit.cs",
+              "RelativeDocumentMoniker": "Test\\Credit.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Test\\Test\\Credit.cs",
+              "RelativeToolTip": "Test\\Credit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:00:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTask.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Test\\Test\\CreateTask.cs",
+              "RelativeDocumentMoniker": "Test\\CreateTask.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Test\\Test\\CreateTask.cs",
+              "RelativeToolTip": "Test\\CreateTask.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:17:33.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
